@@ -24,19 +24,7 @@
 </repositories>
          
          
-<pluginRepositories>
-    <pluginRepository>
-        <id>central</id>
-        <url>https://pkgs.dev.azure.com/alexde/_packaging/meunuget/maven/v1</url>
-        <releases>
-            <enabled>false</enabled>
-        </releases>
-        <snapshots>
-            <enabled>false</enabled>
-        </snapshots>
-    </pluginRepository>
-</pluginRepositories>
-         
+        
          
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
