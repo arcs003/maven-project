@@ -27,7 +27,7 @@
 <pluginRepositories>
     <pluginRepository>
         <id>central</id>
-        <urlhttps://pkgs.dev.azure.com/alexde/_packaging/meunuget/maven/v1</url>
+        <url>https://pkgs.dev.azure.com/alexde/_packaging/meunuget/maven/v1</url>
         <releases>
             <enabled>false</enabled>
         </releases>
