@@ -12,8 +12,8 @@
   <url>http://www.example.com</url>
 <repositories>
 <repository>
-  <id>central</id>
-  <url>https://pkgs.dev.azure.com/alexde/_packaging/meunuget/maven/v1</url>
+  <id>meumaven</id>
+  <url>https://pkgs.dev.azure.com/alexde/_packaging/maven/maven/v1</url>
   <releases>
     <enabled>true</enabled>
   </releases>
